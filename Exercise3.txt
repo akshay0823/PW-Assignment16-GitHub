@@ -1,0 +1,5 @@
+3. Explain what .gitignore is and why it's important in version control
+
+ Ans: The .gitignore file is a configuration file used by Git to specify which files and directories should be ignored and not tracked by the version control system. Its primary purpose is to tell Git which files or patterns of files should not be considered for commits or for inclusion in the repository.
+
+ 
